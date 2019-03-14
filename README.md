@@ -1,2 +1,2 @@
 # video-maker
-Automatização de criação de vídeos
+Robô que cria videos para o Youtube.
